@@ -1,1 +1,1 @@
-# Bio
+I am a passionate and self-motivated cybersecurity learner with a Bachelor’s degree in Business Administration and a strong drive to pivot into the cybersecurity field. Despite not having a formal IT or computer science background, I’ve rigorously trained myself through structured online learning and extensive hands-on practice.
